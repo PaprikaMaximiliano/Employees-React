@@ -48,7 +48,7 @@ class EmployeesAddForm extends Component {
                     />
 
                     <button type="submit" className="btn btn-outline-light" onClick={this.onSubmit}>
-                        Добавить
+                        Add
                     </button>
                 </form>
             </div>
